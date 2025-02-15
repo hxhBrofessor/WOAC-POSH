@@ -1,0 +1,2093 @@
+{
+  "DESKTOP-HS2OTH6": {
+    "OS_Details": [
+      {
+        "Version": "10.0.26100",
+        "Name": "Microsoft Windows 11 Pro",
+        "System_Type": "ARM64-based PC"
+      }
+    ],
+    "Environment_Variable": [
+      {
+        "Variable": "Path",
+        "Value": "%SystemRoot%\\system32;%SystemRoot%;%SystemRoot%\\System32\\Wbem;%SYSTEMROOT%\\System32\\WindowsPowerShell\\v1.0\\;%SYSTEMROOT%\\System32\\OpenSSH\\;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files\\PowerShell\\7\\;C:\\Program Files\\dotnet\\;C:\\Users\\bryan\\sdk\\go1.22.12\\bin;C:\\Users\\bryan\\go\\bin;C:\\Program Files\\Tailscale\\"
+      },
+      {
+        "Variable": "PSModulePath",
+        "Value": "%ProgramFiles%\\WindowsPowerShell\\Modules;%SystemRoot%\\system32\\WindowsPowerShell\\v1.0\\Modules"
+      },
+      {
+        "Variable": "Path",
+        "Value": "%USERPROFILE%\\AppData\\Local\\Microsoft\\WindowsApps;"
+      },
+      {
+        "Variable": "Path",
+        "Value": "%USERPROFILE%\\AppData\\Local\\Microsoft\\WindowsApps;;%PyCharm%;%USERPROFILE%\\.dotnet\\tools;%GoLand%;%CLion%;C:\\ProgramData\\mingw64\\mingw64\\bin"
+      }
+    ],
+    "Process_Details": [
+      {
+        "Process": "System Idle Process",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "System",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "Registry",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "smss.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "csrss.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "wininit.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "services.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "lsass.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "fontdrvhost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "XtaCache.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "Memory Compression",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "spoolsv.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "armsvc.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "MpDefenderCoreService.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "vm3dservice.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "MsMpEng.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "vmtoolsd.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "tailscaled.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "AggregatorHost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "MicrosoftEdgeUpdate.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "tailscaled.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "SearchIndexer.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "NisSrv.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "SecurityHealthService.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "dasHost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "csrss.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "winlogon.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "dwm.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "vm3dservice.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "fontdrvhost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "sihost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "taskhostw.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "explorer.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "ShellHost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "taskhostw.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "SearchHost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "StartMenuExperienceHost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "RuntimeBroker.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "Widgets.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "RuntimeBroker.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "WidgetService.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "dllhost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "ctfmon.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "SecurityHealthSystray.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "msedge.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "msedge.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "msedge.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "msedge.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "msedge.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "CrossDeviceService.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "RuntimeBroker.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "tailscale-ipn.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "vmtoolsd.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "msedge.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "msedge.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "msedge.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "msedge.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "goland64.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "msedge.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "fsnotifier.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "conhost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "msedge.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "RuntimeBroker.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "OpenConsole.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "pwsh.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "goland64.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "goland64.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "OpenConsole.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "pwsh.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "msedge.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "powershell.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "conhost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "msedgewebview2.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "msedgewebview2.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "msedgewebview2.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "msedgewebview2.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "msedgewebview2.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "msedgewebview2.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "msedgewebview2.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "AdobeCollabSync.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "AdobeCollabSync.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "UserOOBEBroker.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "powershell.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "conhost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "dllhost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "OneDrive.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "backgroundTaskHost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "RuntimeBroker.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "FileCoAuth.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "ShellExperienceHost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "RuntimeBroker.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "mmc.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "mmc.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "OpenConsole.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "pwsh.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "powershell.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "conhost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "Notepad.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "svchost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "OpenConsole.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "pwsh.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "SearchProtocolHost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "pwsh.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "conhost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "WmiPrvSE.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "pwsh.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "conhost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "WmiPrvSE.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "pwsh.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "conhost.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      },
+      {
+        "Process": "msiexec.exe",
+        "OSName": "Microsoft Windows 11 Pro",
+        "WindowsVersion": "10.0.26100"
+      }
+    ],
+    "User_Details": [
+      {
+        "Username": "Administrator",
+        "SID": "S-1-5-21-976748671-2855330315-1385660857-500",
+        "Type": "User"
+      },
+      {
+        "Username": "bryan",
+        "SID": "S-1-5-21-976748671-2855330315-1385660857-1001",
+        "Type": "User"
+      },
+      {
+        "Username": "DefaultAccount",
+        "SID": "S-1-5-21-976748671-2855330315-1385660857-503",
+        "Type": "User"
+      },
+      {
+        "Username": "Guest",
+        "SID": "S-1-5-21-976748671-2855330315-1385660857-501",
+        "Type": "User"
+      },
+      {
+        "Username": "hxh_BroFessor",
+        "SID": "S-1-5-21-976748671-2855330315-1385660857-1002",
+        "Type": "User"
+      },
+      {
+        "Username": "WDAGUtilityAccount",
+        "SID": "S-1-5-21-976748671-2855330315-1385660857-504",
+        "Type": "User"
+      }
+    ],
+    "Application": [
+      {
+        "Name": "Microsoft .NET Framework 4.8.1 Targeting Pack",
+        "Version": "4.8.09037"
+      },
+      {
+        "Name": "Microsoft Visual Studio Setup WMI Provider",
+        "Version": "3.12.2140.44225"
+      },
+      {
+        "Name": "Windows Mobile Extension SDK Contracts",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows SDK Desktop Headers x64",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Windows IoT Extension SDK Contracts",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows Mobile Extension SDK Contracts",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "ClickOnce Bootstrapper Package for Microsoft .NET Framework",
+        "Version": "4.8.09256"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Metadata",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Metadata",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Windows Desktop Extension SDK Contracts",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Microsoft Windows Desktop Targeting Pack - 8.0.12 (x86)",
+        "Version": "64.48.26178"
+      },
+      {
+        "Name": "Microsoft Windows Desktop Runtime - 8.0.12 (arm64)",
+        "Version": "64.48.26178"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Contracts",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Windows SDK Desktop Headers arm",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Windows SDK Desktop Tools x86",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Microsoft Windows Desktop Targeting Pack - 8.0.12 (arm64)",
+        "Version": "64.48.26178"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Managed Apps Libs",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Microsoft ASP.NET Core 8.0.12 Targeting Pack (x86)",
+        "Version": "8.0.12.24603"
+      },
+      {
+        "Name": "Microsoft .NET Runtime - 9.0.1 (x64)",
+        "Version": "72.4.26282"
+      },
+      {
+        "Name": "Microsoft .NET 9.0 Templates 9.0.102 (arm64)",
+        "Version": "36.8.53199"
+      },
+      {
+        "Name": "Windows SDK Desktop Tools x64",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Windows SDK Facade Windows WinMD Versioned",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Microsoft .NET Framework 4.8 Targeting Pack",
+        "Version": "4.8.03761"
+      },
+      {
+        "Name": "Windows SDK",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Microsoft .NET CoreRuntime For CoreCon",
+        "Version": "1.0.0.0"
+      },
+      {
+        "Name": "Windows SDK Desktop Tools x64",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Contracts",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Windows SDK Signing Tools",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Windows IoT Extension SDK Contracts",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.42.34433",
+        "Version": "14.42.34433"
+      },
+      {
+        "Name": "Windows SDK EULA",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Libs",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Tools",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Windows SDK DirectX x86 Remote",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows SDK Desktop Tools x64",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Tools",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Contracts",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows SDK ARM Desktop Tools",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Microsoft .NET Runtime - 9.0.1 (arm64)",
+        "Version": "72.4.26282"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Libs",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows SDK Desktop Libs x86",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Windows Mobile Extension SDK Contracts",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Microsoft .NET Targeting Pack - 9.0.1 (x86)",
+        "Version": "72.4.26282"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Metadata",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (arm64)",
+        "Version": "72.0.26282"
+      },
+      {
+        "Name": "Windows SDK Desktop Headers x86",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Windows SDK Desktop Libs arm",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Windows SDK Desktop Libs x86",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Microsoft .NET Targeting Pack - 8.0.12 (x86)",
+        "Version": "64.48.26165"
+      },
+      {
+        "Name": "Windows Mobile Extension SDK",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Contracts",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows SDK Redistributables",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Metadata",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Microsoft .NET Framework 4.7.2 Targeting Pack (ENU)",
+        "Version": "4.7.03062"
+      },
+      {
+        "Name": "Microsoft.NET.Sdk.Android.Manifest-9.0.100 (arm64)",
+        "Version": "35.0.7"
+      },
+      {
+        "Name": "Microsoft ASP.NET Core 8.0.12 Shared Framework (x86)",
+        "Version": "8.0.12.24603"
+      },
+      {
+        "Name": "Windows Team Extension SDK",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows SDK OnecoreUap Headers x64",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Microsoft .NET AppHost Pack - 9.0.1 (arm64_x86)",
+        "Version": "72.4.26282"
+      },
+      {
+        "Name": "Microsoft.NET.Workload.Emscripten.Current.Manifest (arm64)",
+        "Version": "72.44.26179"
+      },
+      {
+        "Name": "Windows Desktop Extension SDK Contracts",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Windows SDK Desktop Libs arm64",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps DirectX x86 Remote",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Microsoft .NET Toolset 9.0.102 (arm64)",
+        "Version": "36.8.36815"
+      },
+      {
+        "Name": "Microsoft ASP.NET Core 8.0.12 Shared Framework (arm64)",
+        "Version": "8.0.12.24603"
+      },
+      {
+        "Name": "Microsoft .NET Targeting Pack - 8.0.12 (x64)",
+        "Version": "64.48.26165"
+      },
+      {
+        "Name": "Windows SDK Desktop Libs arm64",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows SDK Desktop Tools arm64",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Windows SDK Desktop Tools arm64",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Microsoft .NET Host - 9.0.1 (arm64)",
+        "Version": "72.4.26282"
+      },
+      {
+        "Name": "Microsoft .NET CoreRuntime SDK",
+        "Version": "1.1.27004.0"
+      },
+      {
+        "Name": "Windows Mobile Extension SDK",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Windows SDK Desktop Libs x86",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Microsoft Windows Desktop Targeting Pack - 8.0.12 (x64)",
+        "Version": "64.48.26178"
+      },
+      {
+        "Name": "Windows SDK ARM Desktop Tools",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Microsoft .NET AppHost Pack - 8.0.12 (arm64_x64)",
+        "Version": "64.48.26165"
+      },
+      {
+        "Name": "Windows SDK Desktop Headers arm64",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows IoT Extension SDK",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Microsoft Windows Desktop Runtime - 8.0.12 (x86)",
+        "Version": "64.48.26178"
+      },
+      {
+        "Name": "Windows SDK Desktop Headers x64",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Windows Team Extension SDK",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Windows SDK Facade Windows WinMD Versioned",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Microsoft .NET Framework 4.8 SDK",
+        "Version": "4.8.03928"
+      },
+      {
+        "Name": "Windows Mobile Extension SDK",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Microsoft.NET.Workload.Emscripten.net7.Manifest (arm64)",
+        "Version": "72.44.26179"
+      },
+      {
+        "Name": "Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (arm64)",
+        "Version": "72.0.26282"
+      },
+      {
+        "Name": "Windows SDK Desktop Libs arm",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Windows SDK Desktop Libs x86",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows SDK Desktop Headers x86",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Microsoft Visual C++ 2022 Arm64 Debug Runtime - 14.42.34433",
+        "Version": "14.42.34433"
+      },
+      {
+        "Name": "Windows SDK Facade Windows WinMD Versioned",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Microsoft Visual C++ 2022 Arm64 Runtime - 14.42.34433",
+        "Version": "14.42.34433"
+      },
+      {
+        "Name": "Microsoft Windows Desktop Targeting Pack - 9.0.1 (x64)",
+        "Version": "72.4.26276"
+      },
+      {
+        "Name": "Microsoft Windows Desktop Targeting Pack - 9.0.1 (x86)",
+        "Version": "72.4.26276"
+      },
+      {
+        "Name": "Windows Team Extension SDK Contracts",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Microsoft .NET Framework 4.8 Targeting Pack (ENU)",
+        "Version": "4.8.03761"
+      },
+      {
+        "Name": "Windows SDK Desktop Tools x64",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Microsoft .NET Runtime - 9.0.1 (x86)",
+        "Version": "72.4.26282"
+      },
+      {
+        "Name": "Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (arm64)",
+        "Version": "72.0.26282"
+      },
+      {
+        "Name": "Windows SDK Signing Tools",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Microsoft ASP.NET Core 8.0.12 Targeting Pack (arm64)",
+        "Version": "8.0.12.24603"
+      },
+      {
+        "Name": "Windows SDK Modern Non-Versioned Developer Tools",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Microsoft .NET 8.0 Templates 8.0.405 (arm64)",
+        "Version": "32.11.36120"
+      },
+      {
+        "Name": "Windows SDK Desktop Libs x64",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Microsoft ASP.NET Core 9.0.1 Shared Framework (x86)",
+        "Version": "9.0.1.24610"
+      },
+      {
+        "Name": "Windows SDK Desktop Tools x86",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows IoT Extension SDK Contracts",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Windows SDK Desktop Tools x86",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Microsoft Windows Desktop Runtime - 8.0.12 (x64)",
+        "Version": "64.48.26178"
+      },
+      {
+        "Name": "Windows Team Extension SDK Contracts",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Tools",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Managed Apps Libs",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Windows SDK Desktop Headers arm",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows SDK Desktop Libs x64",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Libs",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Windows Espc Package",
+        "Version": "14.0.24247"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Tools",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Microsoft .NET Targeting Pack - 9.0.1 (arm64)",
+        "Version": "72.4.26282"
+      },
+      {
+        "Name": "Microsoft .NET Framework 4.6 Targeting Pack",
+        "Version": "4.6.00081"
+      },
+      {
+        "Name": "Microsoft NetStandard SDK",
+        "Version": "15.0.51105"
+      },
+      {
+        "Name": "Windows SDK Desktop Libs x86",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Microsoft Windows Desktop Runtime - 9.0.1 (x64)",
+        "Version": "72.4.26276"
+      },
+      {
+        "Name": "Windows SDK Modern Versioned Developer Tools",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Windows Desktop Extension SDK Contracts",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Microsoft .NET Framework 4.8.1 Targeting Pack (ENU)",
+        "Version": "4.8.09037"
+      },
+      {
+        "Name": "Windows Espc Package",
+        "Version": "14.0.24247"
+      },
+      {
+        "Name": "Windows SDK Desktop Libs arm64",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows SDK Desktop Tools x64",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows Desktop Extension SDK",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Microsoft Windows Desktop Runtime - 9.0.1 (arm64)",
+        "Version": "72.4.26276"
+      },
+      {
+        "Name": "Microsoft .NET Runtime - 8.0.12 (arm64)",
+        "Version": "64.48.26165"
+      },
+      {
+        "Name": "Windows SDK AddOn",
+        "Version": "10.1.0.0"
+      },
+      {
+        "Name": "Windows Desktop Extension SDK",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Windows SDK EULA",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Microsoft ASP.NET Core 8.0.12 Targeting Pack (x64)",
+        "Version": "8.0.12.24603"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Libs",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Windows Team Extension SDK",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Windows SDK Modern Versioned Developer Tools",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Managed Apps Libs",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps DirectX x86 Remote",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Microsoft .NET Runtime - 8.0.12 (x64)",
+        "Version": "64.48.26165"
+      },
+      {
+        "Name": "Windows SDK Facade Windows WinMD Versioned",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows IoT Extension SDK Contracts",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Microsoft .NET Targeting Pack - 8.0.12 (arm64)",
+        "Version": "64.48.26165"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Headers",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Microsoft.NET.Sdk.tvOS.Manifest-9.0.100 (arm64)",
+        "Version": "18.1.9163"
+      },
+      {
+        "Name": "Windows SDK Desktop Libs x64",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Windows SDK Desktop Tools arm64",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Headers OnecoreUap",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows Mobile Extension SDK",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows SDK Modern Versioned Developer Tools",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Microsoft.NET.Workload.Emscripten.net6.Manifest (arm64)",
+        "Version": "72.44.26179"
+      },
+      {
+        "Name": "Microsoft .NET AppHost Pack - 9.0.1 (arm64)",
+        "Version": "72.4.26282"
+      },
+      {
+        "Name": "Windows SDK Desktop Headers arm64",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Metadata",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Microsoft.NET.Sdk.Maui.Manifest-9.0.100 (arm64)",
+        "Version": "9.0.14"
+      },
+      {
+        "Name": "Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (ENU)",
+        "Version": "4.8.09037"
+      },
+      {
+        "Name": "Windows SDK Desktop Tools arm64",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Microsoft ASP.NET Core 8.0.12 Shared Framework (x64)",
+        "Version": "8.0.12.24603"
+      },
+      {
+        "Name": "Windows SDK ARM64 Desktop Tools",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Headers",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Windows Team Extension SDK",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.42.34433",
+        "Version": "14.42.34433"
+      },
+      {
+        "Name": "Microsoft Visual Studio Setup Configuration",
+        "Version": "3.12.2140.44225"
+      },
+      {
+        "Name": "Windows Desktop Extension SDK",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps DirectX x86 Remote",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Microsoft .NET AppHost Pack - 9.0.1 (arm64_x64)",
+        "Version": "72.4.26282"
+      },
+      {
+        "Name": "Windows SDK Desktop Tools x86",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Microsoft TestPlatform SDK Local Feed",
+        "Version": "17.10.0.9037153"
+      },
+      {
+        "Name": "Windows SDK Modern Versioned Developer Tools",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Windows Desktop Extension SDK",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Microsoft Windows Desktop Targeting Pack - 9.0.1 (arm64)",
+        "Version": "72.4.26276"
+      },
+      {
+        "Name": "Microsoft .NET SDK 9.0.102 (arm64) from Visual Studio",
+        "Version": "9.1.224.61103"
+      },
+      {
+        "Name": "Windows SDK Desktop Tools arm64",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows SDK EULA",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Microsoft UniversalWindowsPlatform SDK",
+        "Version": "15.9.16"
+      },
+      {
+        "Name": "Windows App Certification Kit Native Components",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows IoT Extension SDK",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps DirectX x86 Remote",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows Mobile Extension SDK Contracts",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Windows SDK Facade Windows WinMD Versioned",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Windows SDK Desktop Headers arm64",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Windows SDK Desktop Libs arm",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Microsoft .NET AppHost Pack - 8.0.12 (arm64)",
+        "Version": "64.48.26165"
+      },
+      {
+        "Name": "Windows SDK Signing Tools",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Contracts",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Microsoft.NET.Sdk.macOS.Manifest-9.0.100 (arm64)",
+        "Version": "15.1.9163"
+      },
+      {
+        "Name": "Microsoft.NET.Sdk.iOS.Manifest-9.0.100 (arm64)",
+        "Version": "18.1.9163"
+      },
+      {
+        "Name": "Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest (arm64)",
+        "Version": "72.0.26282"
+      },
+      {
+        "Name": "Windows Mobile Extension SDK",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Microsoft System CLR Types for SQL Server 2019",
+        "Version": "15.0.2000.5"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Tools",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)",
+        "Version": "24.0.28113"
+      },
+      {
+        "Name": "Windows IoT Extension SDK",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows IoT Extension SDK Contracts",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Microsoft ASP.NET Core 9.0.1 Targeting Pack (arm64)",
+        "Version": "9.0.1.24610"
+      },
+      {
+        "Name": "Windows SDK Desktop Libs x64",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Windows SDK Desktop Headers x86",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows SDK Desktop Headers arm",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Microsoft .NET Host FX Resolver - 9.0.1 (x86)",
+        "Version": "72.4.26282"
+      },
+      {
+        "Name": "Microsoft .NET Host FX Resolver - 9.0.1 (arm64)",
+        "Version": "72.4.26282"
+      },
+      {
+        "Name": "windows_toolscorepkg",
+        "Version": "17.12.35410"
+      },
+      {
+        "Name": "Windows SDK Signing Tools",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Microsoft.NET.Sdk.MacCatalyst.Manifest-9.0.100 (arm64)",
+        "Version": "18.1.9163"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Managed Apps Libs",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Microsoft .NET Host FX Resolver - 9.0.1 (x64)",
+        "Version": "72.4.26282"
+      },
+      {
+        "Name": "Windows SDK Desktop Headers x64",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows SDK Desktop Tools x86",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Microsoft .NET Native SDK",
+        "Version": "15.0.24211.07"
+      },
+      {
+        "Name": "Microsoft.NET.Sdk.Aspire.Manifest-8.0.100 (arm64)",
+        "Version": "64.136.23253"
+      },
+      {
+        "Name": "Windows SDK OnecoreUap Headers x86",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows SDK Desktop Libs x64",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Microsoft.NET.Workload.Emscripten.net8.Manifest (arm64)",
+        "Version": "72.44.26179"
+      },
+      {
+        "Name": "Windows IoT Extension SDK",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Windows Desktop Extension SDK",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Windows SDK EULA",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows Mobile Extension SDK Contracts",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Microsoft Windows Desktop Runtime - 9.0.1 (x86)",
+        "Version": "72.4.26276"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Libs",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Windows Desktop Extension SDK Contracts",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Windows SDK Modern Versioned Developer Tools",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Windows SDK Signing Tools",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Windows SDK Desktop Libs arm64",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Microsoft ASP.NET Core 9.0.1 Shared Framework (x64)",
+        "Version": "9.0.1.24610"
+      },
+      {
+        "Name": "Windows SDK Desktop Headers x64",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows Team Extension SDK",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Windows SDK ARM Desktop Tools",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps DirectX x86 Remote",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Microsoft .NET Framework 4.7.2 Targeting Pack",
+        "Version": "4.7.03062"
+      },
+      {
+        "Name": "Microsoft HTML Help Workshop Package",
+        "Version": "4.74.8702"
+      },
+      {
+        "Name": "Windows SDK Desktop Libs arm64",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Windows SDK ARM Desktop Tools",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows SDK Desktop Headers x64",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Windows SDK Desktop Headers arm64",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Windows SDK OnecoreUap Headers arm64",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows Team Extension SDK Contracts",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Microsoft Visual C++ 2022 X86 Debug Runtime - 14.42.34433",
+        "Version": "14.42.34433"
+      },
+      {
+        "Name": "Microsoft ASP.NET Core 9.0.1 Targeting Pack (x86)",
+        "Version": "9.0.1.24610"
+      },
+      {
+        "Name": "Windows App Certification Kit SupportedApiList x86",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows SDK Desktop Headers arm64",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Microsoft .NET Host - 9.0.1 (x86)",
+        "Version": "72.4.26282"
+      },
+      {
+        "Name": "Microsoft .NET Targeting Pack - 9.0.1 (x64)",
+        "Version": "72.4.26282"
+      },
+      {
+        "Name": "Windows SDK Desktop Headers x86",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Microsoft ASP.NET Core 9.0.1 Targeting Pack (x64)",
+        "Version": "9.0.1.24610"
+      },
+      {
+        "Name": "Windows SDK Desktop Headers arm",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Headers",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows Desktop Extension SDK Contracts",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Headers",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Managed Apps Libs",
+        "Version": "10.1.22000.832"
+      },
+      {
+        "Name": "Microsoft ASP.NET Core 9.0.1 Shared Framework (arm64)",
+        "Version": "9.0.1.24610"
+      },
+      {
+        "Name": "Windows SDK Desktop Libs arm",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Microsoft .NET AppHost Pack - 8.0.12 (arm64_x86)",
+        "Version": "64.48.26165"
+      },
+      {
+        "Name": "Microsoft .NET Framework 4.8.1 SDK",
+        "Version": "4.8.09037"
+      },
+      {
+        "Name": "Windows SDK EULA",
+        "Version": "10.1.26100.1742"
+      },
+      {
+        "Name": "Microsoft .NET Host - 9.0.1 (x64)",
+        "Version": "72.4.26282"
+      },
+      {
+        "Name": "Windows SDK for Windows Store Apps Headers",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Windows SDK Desktop Headers x86",
+        "Version": "10.1.22621.3233"
+      },
+      {
+        "Name": "Windows Team Extension SDK Contracts",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows App Certification Kit x64",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows IoT Extension SDK",
+        "Version": "10.1.19041.685"
+      },
+      {
+        "Name": "Windows Team Extension SDK Contracts",
+        "Version": "10.1.18362.1"
+      },
+      {
+        "Name": "Microsoft .NET Runtime - 8.0.12 (x86)",
+        "Version": "64.48.26165"
+      }
+    ],
+    "Network_Info": [
+      {
+        "NIC": "vmxnet3 Ethernet Adapter",
+        "IP": [
+          "192.168.98.137",
+          "fe80::b84f:b872:fd2f:af9"
+        ],
+        "MAC": "00:0C:29:F4:F9:05"
+      },
+      {
+        "NIC": "Tailscale Tunnel",
+        "IP": [
+          "100.87.101.30",
+          "fe80::962:1712:8a8a:42eb",
+          "fd7a:115c:a1e0::cd01:651e"
+        ],
+        "MAC": null
+      }
+    ],
+    "Storage_Details": [
+      {
+        "Drive": "C:",
+        "Total_GB": 149.88,
+        "Free_GB": 22.2
+      }
+    ]
+  }
+}
